@@ -25,8 +25,8 @@
       "name": "小苹果"
     },  
     {
-      "url": "https://raw.liucn.cc/box/m.json",
-      "name": "liucn"
+      "url": "https://codeberg.org/wsl5267/TVBox/raw/branch/main/fantv.json",
+      "name": "文采┃秒播"
     },
     {
       "url": "./XYQ.json",
